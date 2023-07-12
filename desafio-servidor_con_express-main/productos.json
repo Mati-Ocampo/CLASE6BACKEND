@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Producto express 1",
+    "description": "Este es un producto para express",
+    "price": 100,
+    "thumbnail": "Sin imagen",
+    "code": "a1",
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "title": "Producto express 2",
+    "description": "Este es un producto para express",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "b2",
+    "stock": 20
+  },
+  {
+    "id": 3,
+    "title": "Producto express 3",
+    "description": "Este es un producto para express",
+    "price": 300,
+    "thumbnail": "Sin imagen",
+    "code": "c3",
+    "stock": 30
+  },
+  {
+    "id": 4,
+    "title": "Producto express 4",
+    "description": "Este es un producto para express",
+    "price": 400,
+    "thumbnail": "Sin imagen",
+    "code": "d4",
+    "stock": 40
+  },
+  {
+    "id": 5,
+    "title": "Producto express 5",
+    "description": "Este es un producto para express",
+    "price": 500,
+    "thumbnail": "Sin imagen",
+    "code": "c5",
+    "stock": 50
+  },
+  {
+    "id": 6,
+    "title": "Producto express 6",
+    "description": "Este es un producto para express",
+    "price": 600,
+    "thumbnail": "Sin imagen",
+    "code": "d6",
+    "stock": 60
+  },
+  {
+    "id": 7,
+    "title": "Producto express 7",
+    "description": "Este es un producto para express",
+    "price": 700,
+    "thumbnail": "Sin imagen",
+    "code": "e7",
+    "stock": 70
+  },
+  {
+    "id": 8,
+    "title": "Producto express 8",
+    "description": "Este es un producto para express",
+    "price": 800,
+    "thumbnail": "Sin imagen",
+    "code": "f8",
+    "stock": 80
+  },
+  {
+    "id": 9,
+    "title": "Producto express 9",
+    "description": "Este es un producto para express",
+    "price": 900,
+    "thumbnail": "Sin imagen",
+    "code": "g9",
+    "stock": 90
+  },
+  {
+    "id": 10,
+    "title": "Producto express 10",
+    "description": "Este es un producto para express",
+    "price": 1000,
+    "thumbnail": "Sin imagen",
+    "code": "h10",
+    "stock": 100
+  }
+]
